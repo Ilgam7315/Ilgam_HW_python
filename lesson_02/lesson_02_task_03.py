@@ -7,3 +7,4 @@ def square(n):
 
 l_side = float(input("Введите длину стороны квадрата: "))
 print(f"Площадь квадрата: {square(l_side)}")
+

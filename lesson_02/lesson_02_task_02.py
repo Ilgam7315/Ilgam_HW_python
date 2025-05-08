@@ -8,3 +8,4 @@ print(f"год {num}: - {result}")
 
 # вместо return True if number % 4 == 0 else False можно
 # сократить и написать: return number % 4 == 0
+
